@@ -26,7 +26,7 @@ This project is designed to demonstrate basic Java programming concepts, object-
    - Average grade
    - Highest grade
    - Lowest grade
-   - 
+   
 ## Classes & Methods
 
 ### 1. `GradeTracker.java`
@@ -62,7 +62,7 @@ This project is designed to demonstrate basic Java programming concepts, object-
 - **Input Handling:** `Scanner` and buffer management.
 - **Formatting Output:** `System.out.printf` for 2-decimal precision.
 
-- ## Example Usage
+ ## Example Usage
 
 **Input:**
 How many students do you want to add? 2
